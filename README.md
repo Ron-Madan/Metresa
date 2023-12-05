@@ -1,8 +1,10 @@
-# React + Vite
+Hello, my name is Raunak Madan, and I am the developer of this website.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is part of my work during my time as an SDE at Metresa Solutions.
 
-Currently, two official plugins are available:
+Feel free to check out the website here: https://ron-madan.github.io/Metresa/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Moreover, I am always available through my LinkedIn: https://www.LinkedIn.com/in/Raunak-Madan or via email: Ron.Madan@mail.utoronto.ca
+
+Best,
+Raunak
